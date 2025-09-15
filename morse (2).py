@@ -1,9 +1,5 @@
-#section 2
-'''Group members:
-    - Yeabsira Anteneh(UGR/SWE/0113/22)
-    - Suraphel Nega(BITS/UGR/0162/24)
-    - Mohammed Temam(UGR/0148/24)
-    - Nebeyu Essayas(BITS/UGR/0156/24)'''
+
+
 
 
 import winsound
